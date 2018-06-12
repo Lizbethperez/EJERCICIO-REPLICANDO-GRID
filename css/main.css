@@ -1,0 +1,43 @@
+body{
+    margin: 0;
+}
+
+
+.container{
+    width:100%;
+}
+
+.pink, .purple, .blue, .turquesa, .green, .yellow{
+    float: left;
+    font-size: 25px;
+    box-sizing: border-box;
+    border:3px solid white;
+    text-align: center;
+    height: 10vh;
+}
+
+
+.pink{
+    width:100%;
+    background-color: #d126a9;
+}
+.purple{
+    width:50%;
+    background-color: #9c42d1;
+}
+.blue{
+    width: 33.33%;
+    background-color: #01b6ad;
+}
+.turquesa{
+    width: 25%;
+    background-color: #1ee2a6;
+}
+.green{
+    width: 16.66%;
+    background-color: #afff00;
+}
+.yellow{
+    width:8.33%;
+    background-color: #ffff00;
+}
